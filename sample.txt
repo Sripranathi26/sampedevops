@@ -1,1 +1,4 @@
 "Sample file" 
+
+
+New lines are added
